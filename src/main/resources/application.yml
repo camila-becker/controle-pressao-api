@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://camila_becker:102715@camila.oaqjwi3.mongodb.net/?retryWrites=true&w=majority
+      database: camila
